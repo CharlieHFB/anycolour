@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/anycolour/static/css/main.f408f52d.chunk.css",
+    "main.js": "/anycolour/static/js/main.b38d61d2.chunk.js",
+    "main.js.map": "/anycolour/static/js/main.b38d61d2.chunk.js.map",
+    "runtime-main.js": "/anycolour/static/js/runtime-main.3b3203eb.js",
+    "runtime-main.js.map": "/anycolour/static/js/runtime-main.3b3203eb.js.map",
+    "static/js/2.22b50793.chunk.js": "/anycolour/static/js/2.22b50793.chunk.js",
+    "static/js/2.22b50793.chunk.js.map": "/anycolour/static/js/2.22b50793.chunk.js.map",
+    "static/js/3.0175a30b.chunk.js": "/anycolour/static/js/3.0175a30b.chunk.js",
+    "static/js/3.0175a30b.chunk.js.map": "/anycolour/static/js/3.0175a30b.chunk.js.map",
+    "index.html": "/anycolour/index.html",
+    "static/css/main.f408f52d.chunk.css.map": "/anycolour/static/css/main.f408f52d.chunk.css.map",
+    "static/js/2.22b50793.chunk.js.LICENSE.txt": "/anycolour/static/js/2.22b50793.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/anycolour/static/media/SpotifyAppImage.e236ddb9.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b3203eb.js",
+    "static/js/2.22b50793.chunk.js",
+    "static/css/main.f408f52d.chunk.css",
+    "static/js/main.b38d61d2.chunk.js"
+  ]
+}
